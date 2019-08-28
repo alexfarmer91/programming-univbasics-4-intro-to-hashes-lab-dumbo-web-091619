@@ -44,4 +44,5 @@ if hash[key]
 else
   hash[key] = 1
 end
+p hash
 end
